@@ -1,7 +1,7 @@
 open "flow with:
 https://app.diagrams.net/
 
-Scriptfor integration of mp4 files:
+Script for integration of mp4 files:
 paste into text source file
 
 <video controls="" width="200" height="150">
